@@ -8,6 +8,23 @@ Hi, I’m Gireesh Tallur <br><br>I am a Data Science fresher with a strong acade
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+📌 Projects:
+
+🔹 Healthcare Chatbot  
+• Built an AI-based chatbot to assist with healthcare-related queries  
+• Implemented using NLP techniques and rule-based logic  
+• Tech: Python / JavaScript / NLP  
+
+🔹 Improving Data Accuracy in CRM Using AI  
+• Developed an AI-driven solution to identify, clean, and improve inaccurate CRM data  
+• Applied data preprocessing, validation rules, and ML-assisted quality checks  
+• Tech: Python, Pandas, SQL, Machine Learning  
+
+
+📚 Currently Learning:
+• Advanced SQL
+• Machine Learning Models
+• Data Visualization
 
 
 ---
