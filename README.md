@@ -20,7 +20,7 @@
 # 💬 NLP Emotion Detection App
 
 🚀 Live Demo: [https://your-app-name.streamlit.app](https://sentiment-analysis-nlp-aiogefwwuftvpe7gfb9sjj.streamlit.app/)  
-📂 Code: https://github.com/your-username/sentiment-analysis-nlp  
+📂 Code: https:[//github.com/your-username/sentiment-analysis-nlp](https://github.com/gireeshtallur7/sentiment-analysis-nlp)  
 
 Built an NLP-based emotion detection system using TF-IDF and Logistic Regression (~84% accuracy).  
 The model analyzes user text and predicts emotions like Joy, Sadness, and Anger in real time via a Streamlit web app.
