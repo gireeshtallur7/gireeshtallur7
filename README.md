@@ -3,6 +3,15 @@
  
  My Hosted Portfolio Profile  link  
                                      🔗 Live App: [https://gireeshtallur7.github.io/Gireesh_Tallur.github.io/](https://gireeshtallur7.github.io/Gireeshtallur_project_website.github.io/)
+# 💫 About Me:
+
+Hi, I'm **Gireesh Tallur**
+
+🎯 I am a Data Science enthusiast with strong hands-on experience in building Machine Learning and AI-based solutions.
+
+ **Completed 8–9 months intensive Data Science & Gen-AI program from AnalytixLabs, Bangalore (HSR Layout, Sector 6)**  
+👉 Focused on real-world projects, deployment, and industry-level problem solving ,AWS ,S3 buckets
+
  
 ## 🚀 Live Projects
 ### Telecom customer churn prediction project app
@@ -33,14 +42,7 @@ The model analyzes user text and predicts emotions like Joy, Sadness, and Anger 
 ✔️ Predicts heart disease risk based on medical inputs  
 ✔️ End-to-end deployment on cloud  
 
-# 💫 About Me:
-
-Hi, I'm **Gireesh Tallur**
-
-🎯 I am a Data Science enthusiast with strong hands-on experience in building Machine Learning and AI-based solutions.
-
- **Completed 8–9 months intensive Data Science & Gen-AI program from AnalytixLabs, Bangalore (HSR Layout, Sector 6)**  
-👉 Focused on real-world projects, deployment, and industry-level problem solving  
+ 
 
 
  📜 Certifications
