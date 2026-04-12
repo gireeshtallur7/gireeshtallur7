@@ -17,7 +17,13 @@
 ✔️ Enables data-driven retention strategies for businesses
 
 ✔️ Deployed interactive web app using Streamlit
+# 💬 NLP Emotion Detection App
 
+🚀 Live Demo: [https://your-app-name.streamlit.app](https://sentiment-analysis-nlp-aiogefwwuftvpe7gfb9sjj.streamlit.app/)  
+📂 Code: https://github.com/your-username/sentiment-analysis-nlp  
+
+Built an NLP-based emotion detection system using TF-IDF and Logistic Regression (~84% accuracy).  
+The model analyzes user text and predicts emotions like Joy, Sadness, and Anger in real time via a Streamlit web app.
 
 ### ❤️ Heart Disease Prediction App  
 🔗 Live App: https://heart-app-final-4uotibvoha65jnv5eixw2z.streamlit.app  
