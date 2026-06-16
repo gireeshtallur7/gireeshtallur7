@@ -2,7 +2,7 @@
  Data Science & Machine Learning Enthusiast
  
  My Hosted Portfolio Profile  link  
-                                     🔗 Live App: [https://gireeshtallur7.github.io/Gireesh_Tallur.github.io/](https://gireeshtallur7.github.io/Gireeshtallur_project_website.github.io/)
+                                     🔗 Live App: [https://gireeshtallur7.github.io/Gireesh_Tallur.github.io/]([https://gireeshtallur7.github.io/Gireeshtallur_project_website.github.io/](https://gireeshtallur7.github.io/))
 # 💫 About Me:
 
 Hi, I'm **Gireesh Tallur**
